@@ -1,0 +1,10 @@
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\bin\Debug\Project 4.exe.config
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\bin\Debug\Project 4.exe
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\bin\Debug\Project 4.pdb
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\obj\Debug\Project 4.csprojAssemblyReference.cache
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\obj\Debug\Project_4.Properties.Resources.resources
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\obj\Debug\Project 4.csproj.GenerateResource.cache
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\obj\Debug\Project 4.csproj.CoreCompileInputs.cache
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\obj\Debug\Project 4.exe
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\obj\Debug\Project 4.pdb
+C:\Users\Dalto\OneDrive\Documents\University of Louisville\CSE 545\Project_4\Project4Blake\Project 4\Project 4\obj\Debug\Project_4.TSP_Form.resources
