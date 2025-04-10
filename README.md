@@ -1,4 +1,9 @@
-# C# Projects
+# 📦 C# Projects
 
-Project 1 through Project 5 are Travelling Salesman Problems using different techniques to find a solution <br>
-Project 6 is a Genetic Algorithm + Wisdom of Artificial Crowds program to find the perfect partition to the Number Partitioning Problem
+This repository contains several C# projects focused on optimization problems.
+
+- **Projects 1–5**: Solutions to the Travelling Salesman Problem using different techniques.
+
+- **Project 6**: A hybrid Genetic Algorithm + Wisdom of Artificial Crowds approach to solve the Number Partitioning Problem.
+
+Each project is self-contained and can be run individually.
